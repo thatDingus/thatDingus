@@ -1,3 +1,3 @@
 # ello it is me the dingus
 
-<img src="funnidog.webp"></img>
+<img src="funnidog.webp" alt="FUNNI DOG!!!!?!?!??!?!?!??!?!?!?!?"></img>
